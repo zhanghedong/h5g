@@ -1,0 +1,1 @@
+define("src/app/views/view-debug", [], function(require) {});

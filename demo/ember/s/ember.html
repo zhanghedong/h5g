@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>Ember</title>
+    <link rel="stylesheet" href="ember.css" />
+    <style type="text/css">
+        h1, h2, h3, p {
+            line-height: 2;
+        }
+    </style>
+</head>
+<body>
+<script type="text/x-handlebars" data-template-name="about">
+    <h1>==========={{title}}==========</h1>
+</script>
+<script type="text/x-handlebars" data-template-name="favorites">
+    <h1>==========={{fav}}==========</h1>
+</script>
+<script type="text/x-handlebars" data-template-name="posts">
+    <h1>==========={{name}}==========</h1>
+</script>
+<script type="text/x-handlebars" data-template-name="post">
+    <h1>==========={{name}}==========</h1>
+
+    <h1>======控制器添加变量====={{postName}}==========</h1>
+
+    <h2>
+        {{#view App.ClickableView}}
+        This is a clickable area!
+        {{/view}}
+    </h2>
+
+    <br>
+
+    {{view App.InfoView}}
+</script>
+
+<script type="text/x-handlebars" data-template-name="user">
+    User: {{view.firstName}} {{view.lastName}}
+    {{view App.InfoView}}
+    <br>
+    <h1>为视图添加布局</h1>
+    {{view App.AViewWithLayout}}
+    <h1>弹出视图</h1>
+
+    {{#view App.PopupView}}
+    <form>
+        <label for="name">Name:</label>
+        <input id="name" type="text" />
+    </form>
+    {{/view}}
+
+    <br>
+    {{#view App.PopupView}}
+    <p> Thank you for signing up! </p>
+    {{/view}}
+
+    <br>
+    <p>MyText</p>
+    {{view Ember.Checkbox}}
+</script>
+
+<script type="text/x-handlebars" data-template-name="info">
+    <b>Postsxxxxxxxxxxxxxxx:</b> {{view.posts}}
+    <br>
+    <b>Hobbies:</b> {{view.hobbies}}
+</script>
+
+<!--定义如下布局-->
+<script type="text/x-handlebars" data-template-name="my_layout">
+    <div class="content-wrapper">
+        {{yield}}
+    </div>
+</script>
+
+<script type="text/x-handlebars" data-template-name="my_content">
+   Hello , <b>{{view.name}}</b>
+</script>
+
+
+<script type="text/x-handlebars" data-template-name="popup">
+    <div class="popup">
+        <button class="popup-dismiss">x</button>
+        <div class="popup-content">
+            {{yield}}
+        </div>
+    </div>
+</script>
+
+<!-- 创建应用的主模板 -->
+<script type="text/x-handlebars">
+    <!--设置一个标记，引用App对象的title属性-->
+    {{App.title}}
+    <h1>{{appName}}</h1>
+
+    <h2>{{title}}</h2>
+    <section class="favorites">
+        {{outlet}}
+    </section>
+    {{#linkTo "index"}}<img class="logo">{{/linkTo}}
+    <!-- get the title from the IndexController -->
+    <nav>
+        {{#linkTo "about"}}About{{/linkTo}}
+        {{#linkTo "favorites"}}Favorites{{/linkTo}}
+        {{#linkTo "posts"}}posts{{/linkTo}}
+        {{#linkTo "user"}}user{{/linkTo}}
+        <a href="#/posts/1">post</a>
+    </nav>
+</script>
+<script src="../../../public/js/seajs/sea.js"></script>
+<script type="text/javascript">
+    seajs.use('seajs/config', function () {
+        seajs.use('./ember')
+    })
+</script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+define("src/app/controllers/controller", [], function(require) {});

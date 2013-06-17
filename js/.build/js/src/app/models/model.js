@@ -1,0 +1,1 @@
+define("src/app/models/model", [], function(require) {});

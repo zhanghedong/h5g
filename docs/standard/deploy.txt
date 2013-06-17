@@ -1,0 +1,18 @@
+1、游戏压缩(需根据具体环境修改配置)
+    win下执行 js/src/tools/bake.bat
+    linux下执行 js/src/tools.bake.sh
+
+2、安装node环境：http://nodejs.org/
+
+3、安装grunt-cli
+   npm install grunt-cli
+
+2、安装grunt依赖
+   node命令行定位到js/src目录下执行：npm install
+
+3、打包压缩
+   node命令行定位到js/src目录下执行：grunt
+
+4、发布
+   修改public/js/seajs/config.js
+   var development = true; // 发布时候改为false

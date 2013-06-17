@@ -1,0 +1,12 @@
+reset
+    游戏不兼容IE6、7、8
+
+
+
+
+基础模块
+    button
+    dialog
+    loading
+    mask
+    nav

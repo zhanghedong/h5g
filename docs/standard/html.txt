@@ -1,0 +1,25 @@
+文档声明
+    <!DOCTYPE HTML>
+    <html>
+        <head>
+            <title>文档标题</title>
+            <meta charset="utf-8">
+            <link rel="stylesheet" href="样式引用放在head标签里" />
+        </head>
+        <body>
+        <canvas></canvas>
+        <script src="所有脚本放在body结果标签之前"></script>
+        </body>
+    </html>
+
+所有标签及属性统一用小写
+
+id:
+    具体意义的英文名
+    主要以下结构使用id：头部导航(nav)、侧边栏(aside)、主内容区域(main)及底部(footer)
+    单词间使用下划线链接
+
+class:
+    具体意义的英文名
+    使用继承方式完成具体表现如：<button class="btn default"></button>
+    单词间使用中划线链接:bg-green

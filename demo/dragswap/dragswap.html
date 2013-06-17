@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>Touch</title>
+    <link rel="stylesheet" href="dragswap.css" />
+</head>
+<body>
+<div class="draggable"></div>
+<!--<div class="content" id="wrapper">-->
+    <!--<div class="target"></div>-->
+    <!--<div class="drag"></div>-->
+    <!--<div class="draggable"></div>-->
+<!--</div>-->
+<script src="../../public/js/seajs/sea.js"></script>
+<script type="text/javascript">
+    seajs.use('seajs/config', function () {
+          seajs.use('./dragswap')
+    })
+</script>
+
+<!-- START Socketbug ( The following javascript is all you really need to debug your application ) -->
+<!--<script type="text/javascript">-->
+        <!--var _sbs = _sbs || {-->
+            <!--/* Socketbug Server */-->
+            <!--'version': '0.2.0',-->
+<!--//            'host': 'http://192.168.255.99',-->
+            <!--'host': 'http://d.com',-->
+            <!--'port': 8089,-->
+
+            <!--/* Socketbug Account */-->
+            <!--'group_id': '4704808A-80A9-6DD3-341F-E18A3F00563A',-->
+            <!--'group_name': 'Socketbug Demo Group',-->
+
+            <!--'application_id': '5E3E8FB6-86CF-6BF8-B4C4-6B2497BC388C',-->
+            <!--'application_name': 'Socketbug Demo Application',-->
+
+            <!--/**-->
+             <!--* Debug Level-->
+             <!--*-->
+             <!--* 5 = log, debug, info, warn, & error-->
+             <!--* 4 = debug, info, warn, & error-->
+             <!--* 3 = info, warn, & error-->
+             <!--* 2 = warn, & error-->
+             <!--* 1 = error-->
+             <!--* 0 = disable all debug messages-->
+             <!--*/-->
+            <!--'debug_level': 4,-->
+
+            <!--/* Load Custom Helpers */-->
+            <!--'helpers': [],-->
+
+            <!--/* Load Custom Libraries */-->
+            <!--'libraries': [],-->
+
+            <!--/* Load Custom Plugins */-->
+            <!--'plugins': ['plugins/sample']-->
+
+    <!--//        'connect_callback': socketbug_connect_callback,				// Custom Callback Handler for Connect Event-->
+    <!--//        'disconnect_callback': socketbug_disconnect_callback,		// Custom Callback Handler for Disconnect Event-->
+    <!--//        'message_callback': socketbug_message_callback				// Custom Callback Handler for Message Event-->
+
+        <!--};-->
+<!--</script>-->
+<!--<script type="text/javascript" src="http://d.com/socketbug/client/application/sb.js" async></script>-->
+<!-- END Socketbug -->
+</body>
+</html>

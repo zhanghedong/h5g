@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>Ember用户登录DEMO</title>
+    <link rel="stylesheet" href="user.css" />
+</head>
+<body>
+<script type="text/x-handlebars">
+    <div class="users cf">
+        <h2>用户管理</h2>
+        {{outlet}}
+    </div>
+</script>
+<script src="../../public/js/seajs/sea.js"></script>
+<script type="text/javascript">
+    seajs.use('seajs/config', function () {
+        seajs.use('./user_controller')
+    })
+</script>
+</body>
+</html>

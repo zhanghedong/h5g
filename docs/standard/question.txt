@@ -1,0 +1,19 @@
+存在问题：
+
+1、Retina屏幕下图片适配
+   #my-image { background: (low.png); }
+   @media only screen and (min-device-pixel-ratio: 1.5) {
+     #my-image { background: (high.png); }
+   }
+
+   background-image: url(icon1x.jpg);
+   background-image: -webkit-image-set(
+     url(icon1x.jpg) 1x,
+     url(icon2x.jpg) 2x
+   );
+   //image-set CSS4草案中的一个属性
+
+   在线文档：http://www.html5rocks.com/en/mobile/high-dpi/
+
+
+2、

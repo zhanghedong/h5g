@@ -1,0 +1,1 @@
+/*! grunt-spm-build - v0.2.0 - 2013-06-13 11:32 */define("src/util/core",[],function(){window.h5g=h5g?h5g:{}});

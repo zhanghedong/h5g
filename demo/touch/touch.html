@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <title>Touch</title>
+    <link rel="stylesheet" href="touch.css" />
+</head>
+<body>
+
+<div class="content" id="wrapper">
+    <ul class="list-1">
+        <li id="tap"><span>tap</span><a href="#" class="delete">点击</a></li>
+        <li id="singleTap"><span>singleTap</span><a href="#" class="delete">单击</a></li>
+        <li id="doubleTap"><span>doubleTap</span><a href="#" class="delete">双击</a></li>
+        <li id="longTap"><span>longTap</span><a href="#" class="delete">长按</a></li>
+        <li id="swipe"><span>swipe</span><a href="#" class="delete">滑动</a></li>
+        <li id="swipeLeft"><span>swipeLeft</span><a href="#" class="delete">左划</a></li>
+        <li id="swipeRight"><span>swipeRight</span><a href="#" class="delete">右划</a></li>
+        <li id="swipeUp"><span>swipeUp</span><a href="#" class="delete">上划</a></li>
+        <li id="swipeDown"><span>swipeDown</span><a href="#" class="delete">下划</a></li>
+        <li><span>测试scroll</span></li>
+        <li><span>测试scroll</span></li>
+        <li><span>测试scroll</span></li>
+        <li><span>测试scroll</span></li>
+        <li><span>测试scroll</span></li>
+    </ul>
+</div>
+<script src="../../public/js/seajs/sea.js"></script>
+<script type="text/javascript">
+    seajs.use('seajs/config', function () {
+          seajs.use('./touch')
+    })
+</script>
+</body>
+</html>

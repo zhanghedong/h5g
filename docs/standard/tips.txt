@@ -1,0 +1,5 @@
+Fingers != mouse pointer
+Avoid: tables, relative positioning, absolute positioning, floats
+Headers and Footers? Use position: fixed;
+Scroll inside elements? Use overflow: scroll;
+Inertial scrolling? Use -webkit-overflow-scrolling: touch; (iOS 5+)
