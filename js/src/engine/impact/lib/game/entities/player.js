@@ -10,7 +10,7 @@ ig.module(
 
             // The players (collision) size is a bit smaller than the animation
             // frames, so we have to move the collision box a bit (offset)
-            size: {x: 127, y: 129},
+            size: {x: 97, y: 140},
             offset: {x: 4, y: 2},
 
             maxVel: {x: 100, y: 200},
@@ -20,7 +20,7 @@ ig.module(
             checkAgainst: ig.Entity.TYPE.NONE,
             collides: ig.Entity.COLLIDES.PASSIVE,
 
-            animSheet: new ig.AnimationSheet('resources/images/roles/bluegril3.png', 127, 129),
+            animSheet: new ig.AnimationSheet('resources/images/roles/Creature_Bluegirl_02.png', 97, 140),
 
 
             // These are our own properties. They are not defined in the base
