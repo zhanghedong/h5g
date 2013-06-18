@@ -1,4 +1,4 @@
-/*! grunt-spm-build - v0.2.0 - 2013-06-13 11:31 */
+/*! grunt-spm-build - v0.2.0 - 2013-06-17 18:14 */
 /**
  * Created by zhanghd on 13-5-21 上午10:21
  * Copyright 2013 ND, Inc. All rights reserved.
@@ -12,7 +12,6 @@ define("src/app/index-debug", [ "../game/game.min-debug", "zepto-debug" ], funct
     }, 1e3);
 });
 
-/*! Built with IMPACT - impactjs.com */
 define("src/game/game.min-debug", [], function(require, exports, module) {
     (function(window) {
         "use strict";
@@ -2432,7 +2431,7 @@ define("src/game/game.min-debug", [], function(require, exports, module) {
     // engine/impact/game/main.js
     ig.baked = true;
     ig.module("game.main").requires("impact.game", "impact.font").defines(function() {
-        MyGame = ig.Game.extend({
+        var MyGame = ig.Game.extend({
             font: new ig.Font("resources/font/04b03.font.png"),
             init: function() {},
             update: function() {

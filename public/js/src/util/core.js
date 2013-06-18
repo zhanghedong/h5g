@@ -1,1 +1,1 @@
-/*! grunt-spm-build - v0.2.0 - 2013-06-15 11:24 */define("src/util/core",[],function(){window.h5g=h5g?h5g:{}});
+/*! grunt-spm-build - v0.2.0 - 2013-06-17 18:14 */define("src/util/core",[],function(){window.h5g=h5g?h5g:{}});

@@ -12,8 +12,8 @@ define(function (require, exports, module) {
         return host;
     };
     var domain = this.location.host;//当前访问的域名
-    var productUrl = 'http://' + domain + '/h5game/h5g/public/js'; // 生产环境js代码路径
-    var devUrl = 'http://' + domain + '/h5game/h5g/js'; // 开发环境js源码路径
+    var productUrl = 'http://' + domain + '/h5g/public/js'; // 生产环境js代码路径
+    var devUrl = 'http://' + domain + '/h5g/js'; // 开发环境js源码路径
     var baseUrl = '';
     if (development) {
         baseUrl = devUrl;

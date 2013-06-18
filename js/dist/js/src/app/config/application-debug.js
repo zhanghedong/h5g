@@ -1,4 +1,4 @@
-/*! grunt-spm-build - v0.2.0 - 2013-06-13 11:31 */ define("src/app/config/application-debug", [ "ember-debug" ], function(require) {
+/*! grunt-spm-build - v0.2.0 - 2013-06-17 18:14 */ define("src/app/config/application-debug", [ "ember-debug" ], function(require) {
     var Ember = require("ember-debug");
     //创建应用
     window.App = Ember.Application.create();
