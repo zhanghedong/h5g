@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92fa5669-3b34-47de-adb2-2573695dcf0a" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/todomvc/js/app.js" afterPath="$PROJECT_DIR$/demo/todomvc/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/todomvc/js/app/templates/main.html" afterPath="$PROJECT_DIR$/demo/todomvc/js/app/templates/main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/todomvc/js/app/routers/todo.js" afterPath="$PROJECT_DIR$/demo/todomvc/js/app/routers/todo.js" />
@@ -10,6 +11,56 @@
     <ignored path="h5g.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="92fa5669-3b34-47de-adb2-2573695dcf0a" time="1371606101149" ignored="false" />
+=======
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\game\entities\delay.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\game\main.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\animation.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\background-map.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\collision-map.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\debug\debug.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\debug\debug.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\debug\entities-panel.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\debug\graph-panel.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\debug\maps-panel.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\debug\menu.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\entity.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\font.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\game.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\image.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\impact.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\input.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\loader.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\map.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\sound.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\system.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\impact\timer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\resources\images\roles\bluegril3.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\api\browse.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\api\config.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\api\glob.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\api\save.php" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\collisiontiles-64.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\config.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\edit-entities.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\edit-map.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\entities.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\evented-input.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\jquery-1.7.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\jquery-ui-1.8.1.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\modal-dialogs.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\select-file-dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\tile-select.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\undo.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\weltmeister.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\webroot\h5g\js\src\engine\impact\weltmeister\weltmeister.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/src/engine/impact/resources/images/roles/Creature_Bluegirl_02.png" afterPath="$PROJECT_DIR$/js/src/engine/impact/resources/images/roles/Creature_Bluegirl_02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/src/engine/impact/lib/game/entities/player.js" afterPath="$PROJECT_DIR$/js/src/engine/impact/lib/game/entities/player.js" />
+    </list>
+    <ignored path="h5g.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="92fa5669-3b34-47de-adb2-2573695dcf0a" time="1371565553425" ignored="false" />
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
     <file path="$PROJECT_DIR$/../todomvc/dependency-examples/emberjs_require/js/app/views/application.js" changelist="92fa5669-3b34-47de-adb2-2573695dcf0a" time="1371525084343" ignored="false" />
     <file path="/todo.html" changelist="92fa5669-3b34-47de-adb2-2573695dcf0a" time="1371551586131" ignored="false" />
     <file path="/app.js" changelist="92fa5669-3b34-47de-adb2-2573695dcf0a" time="1371620755479" ignored="false" />
@@ -53,7 +104,11 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="15" column="17" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0">
+=======
+            <state line="9" column="71" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
               <folding />
             </state>
           </provider>
@@ -62,12 +117,17 @@
       <file leaf-file-name="todo.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/todomvc/todo.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="12" column="23" selection-start="497" selection-end="497" vertical-scroll-proportion="-10.064516">
+=======
+            <state line="10" column="6" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="todo.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/routers/todo.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,6 +148,10 @@
       </file>
       <file leaf-file-name="ember.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/standard/ember.txt">
+=======
+      <file leaf-file-name="router.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/router.js">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
           <provider selected="true" editor-type-id="text-editor">
             <state line="16" column="38" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
               <folding />
@@ -95,19 +159,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="router.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/router.js">
+      <file leaf-file-name="todo.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/models/todo.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state line="6" column="27" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+=======
+            <state line="15" column="7" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/views/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="56" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
+=======
+      <file leaf-file-name="player.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/src/engine/impact/lib/game/entities/player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="45" selection-start="572" selection-end="572" vertical-scroll-proportion="0.46594983">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
               <folding />
             </state>
           </provider>
@@ -145,16 +220,23 @@
         <option value="$PROJECT_DIR$/docs/standard/ember.txt" />
         <option value="$PROJECT_DIR$/demo/todomvc/js/app/templates/main.html" />
         <option value="$PROJECT_DIR$/demo/todomvc/js/app.js" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/demo/todomvc/js/app/controllers/todo.js" />
         <option value="$PROJECT_DIR$/demo/todomvc/js/app/routers/todo.js" />
+=======
+        <option value="$PROJECT_DIR$/demo/todomvc/js/app/models/todo.js" />
+        <option value="$PROJECT_DIR$/demo/todomvc/js/app/models/todo_store.js" />
+        <option value="$PROJECT_DIR$/demo/todomvc/js/app/controllers/todos_entries.js" />
+        <option value="$PROJECT_DIR$/js/src/engine/impact/lib/game/entities/player.js" />
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -338,6 +420,204 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="standard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="engine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="engine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="engine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="engine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="levels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="engine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entities" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -609,6 +889,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
@@ -648,13 +929,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <editor active="false" />
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984913" sideWeight="0.67012686" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16679077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -732,25 +1022,42 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/views/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="56" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
+=======
+    <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="71" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/public/js/src/lib/ember/ember-1.0.0-rc.3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12682" column="25" selection-start="352108" selection-end="352108" vertical-scroll-proportion="0.0">
+=======
+    <entry file="file://$PROJECT_DIR$/demo/todomvc/todo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/less/config.less">
+=======
+    <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/router.js">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/public/themes/default.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -762,10 +1069,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/src/engine/impact/index.html">
+=======
+    <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/models/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="7" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/ember-todo/controllers/todos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="32" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/ember-todo/model/store.js">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/js/src/lib/ember/ember-1.0.0-rc.5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="2" selection-start="184" selection-end="184" vertical-scroll-proportion="0.031438936">
@@ -788,15 +1111,40 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/controllers/application.js">
+=======
+    <entry file="file://$PROJECT_DIR$/demo/ember-todo/model/todo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/ember-todo/views/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/ember-todo/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="11" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/ember-todo/router.js">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="6" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/ember-todo/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/standard/ember.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="16" column="38" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
+=======
+        <state line="10" column="6" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
           <folding />
         </state>
       </provider>
@@ -810,6 +1158,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/ember-todo/controllers/todos.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="6" column="33" selection-start="233" selection-end="233" vertical-scroll-proportion="0.18571429">
           <folding />
         </state>
@@ -818,20 +1167,33 @@
     <entry file="file://$PROJECT_DIR$/demo/todomvc/todo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="23" selection-start="497" selection-end="497" vertical-scroll-proportion="-10.064516">
+=======
+        <state line="15" column="7" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/controllers/todo.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state line="7" column="0" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
+=======
+        <state line="9" column="71" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/demo/todomvc/js/app/routers/todo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="44" selection-start="794" selection-end="794" vertical-scroll-proportion="0.68095237">
+=======
+    <entry file="file://$PROJECT_DIR$/js/src/engine/impact/lib/game/entities/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="45" selection-start="572" selection-end="572" vertical-scroll-proportion="0.46594983">
+>>>>>>> 93ca0111985daf13c303faa536ca299fd20fbad4
           <folding />
         </state>
       </provider>
