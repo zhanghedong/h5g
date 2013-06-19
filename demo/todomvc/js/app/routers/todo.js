@@ -6,7 +6,12 @@ define(function (require, exports, module) {
     Todos.TodosRoute = Ember.Route.extend({
         model: function () {
 //            return Todos.Todo.find();
+        },
+        renderTemplate: function() {
+            alert('dd123');
+            this.render('favoritePost');
         }
+
     });
 
     Todos.TodosIndexRoute = Ember.Route.extend({

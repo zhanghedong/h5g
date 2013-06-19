@@ -8,6 +8,17 @@ define(function (require, exports, module) {
         rootElement:'#todoapp',
         ApplicationController: Ember.Controller.extend()
     });
+    Todos.ApplicationRoute = Ember.Route.extend({
+        setupController: function(controller) {//初始化
+            // `controller` is the instance of ApplicationController
+            console.log(controller);
+//            controller.set('title', "Hello world!");
+//            controller.set('title', "Hello world!");
+        }
+    });
+    Todos.ApplicationController = Ember.Controller.extend({
+//        title: 'My First Example'
+    });
     return window.Todos;
 
 })
