@@ -34,7 +34,7 @@ ig.module(
             init: function (x, y, settings) {
                 this.parent(x, y, settings);
                 // Add the animations
-                this.addAnim('idle', 0.1, [0,1,2,3]);
+                this.addAnim('idle', 0.1, [0]);
                 this.addAnim('run', 0.07, [0, 1, 2, 3, 4, 5]);
                 this.addAnim('jump', 1, [9]);
                 this.addAnim('fall', 0.4, [6, 7]);
