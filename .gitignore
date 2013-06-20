@@ -1,0 +1,8 @@
+/.idea/
+
+/h5g/js/node_modules/*
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
