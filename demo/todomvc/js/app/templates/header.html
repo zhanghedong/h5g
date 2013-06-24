@@ -2,4 +2,5 @@
     <h1>todos</h1>
     {{view Ember.TextField id="new-todo" placeholder="What needs to be done?"
     valueBinding="newTitle" action="createTodo"}}
+    {{outlet toolbar}}
 </header>
