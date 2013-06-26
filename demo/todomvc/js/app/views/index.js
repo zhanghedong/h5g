@@ -10,6 +10,7 @@ define(function (require, exports, module) {
         classNames: ['the-container'],
         childViews: ['headerView','mainView', 'footerView'],
         headerView: Ember.View.create({
+
             classNames:['header-wrap'],
             template: Ember.Handlebars.compile(headerTpl)
         }),
@@ -22,5 +23,9 @@ define(function (require, exports, module) {
             template: Ember.Handlebars.compile(footerTpl)
         })
     });
+    Todos.favoritePostView  = Ember.View.create({
+        classNames:['footer-wrap'],
+        template: Ember.Handlebars.compile(footerTpl)
+    })
     aContainer.appendTo('#todoapp');
 })

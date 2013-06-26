@@ -8,8 +8,10 @@ define(function (require, exports, module) {
 //            return Todos.Todo.find();
         },
         renderTemplate: function() {
-            alert('dd123');
+          //  alert('dd123');
             this.render('favoritePost');
+
+//            this.render({ outlet: '' });
         }
 
     });

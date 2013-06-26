@@ -6,6 +6,7 @@ define(function (require, exports, module) {
     var Ember = require('ember');
     window.Todos = window.Todos || Ember.Application.create({
         rootElement:'#todoapp',
+        LOG_TRANSITIONS: true,// 记录追踪路由的变化
         ApplicationController: Ember.Controller.extend()
     });
     Todos.ApplicationRoute = Ember.Route.extend({
