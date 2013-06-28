@@ -1,1 +1,0 @@
-换到该文件夹到js/package.json目录下，输入 npm install 安装 package.json 里面依赖的包

@@ -4,21 +4,17 @@
         |-js.txt
         |-less.txt
         |-html.txt
+        |-...
+|-node_modules  grunt依赖
 |-js 源码
-    |-node_modules  grunt依赖
-    |-src
-        |-app 业务逻辑代码
-        |-engine 引擎
-            |-impact
-            |-cocos2d-html5
-        |-lib 辅助开发库
-            |-jquery
-            |-zepto
-            |-wijimo
-        |-util 内部函数
+    |-app 业务逻辑代码
+    |-engine 引擎
+        |-impact
+        |-cocos2d-html5
+    |-game 生成的游戏场景模块
+    |-lib 内部库
+        |-util 常用类
             |-core.js
-    |-Gruntfile.js grunt配置文件
-    |-package.json 配置依赖
 |-less
     |-base 公共方法
     |-layout 布局
@@ -34,11 +30,14 @@
 |-public 公共资源
     |-js 部署代码
         |-seajs
-            |-config.js seajs配置文件
             |-sea.js
             |-...
-        |-src 由grunt构建生成
-            |-app
+        |-lib_ext 辅助开发库
+            |-jquery
+            |-zepto
+            |-wijimo
+        |-app  业务代码由grunt构建
+        |-config.js seajs 配置文件
     |-resources 资源目录
         |-font 字体
         |-images 图片
@@ -46,3 +45,5 @@
     |-themes 样式
         |-default.css 由grount构建生成
 |-test 测试用例
+|-Gruntfile.js grunt配置文件
+|-package.json 配置依赖

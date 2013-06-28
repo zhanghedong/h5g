@@ -1,1 +1,3 @@
-pixi.js：
+pixi.js
+impact.js
+cocos2d-html5

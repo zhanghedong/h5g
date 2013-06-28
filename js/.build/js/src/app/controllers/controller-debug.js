@@ -1,1 +1,0 @@
-define("src/app/controllers/controller-debug", [], function(require) {});
