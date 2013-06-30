@@ -1,0 +1,1 @@
+/*! grunt-spm-build - v0.2.0 - 2013-06-30 19:35 */define("app/config/route",[],function(){App.Router.map(function(){this.resource("users",function(){this.resource("user",{path:":user_id"})})})});

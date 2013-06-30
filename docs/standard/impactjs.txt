@@ -1,0 +1,9 @@
+impactJS库修改
+    ig.Image
+        添加路径判断
+    weltmeister.js
+        添加依赖'game.config.resource'
+
+
+插件
+    场景切换：https://github.com/samgreen/ImpactJS-Scene-Manager/blob/master/main.js

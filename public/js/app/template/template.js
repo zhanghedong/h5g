@@ -1,0 +1,1 @@
+/*! grunt-spm-build - v0.2.0 - 2013-06-30 19:35 */define("app/template/template",[],function(){console.log("temp")});

@@ -18,7 +18,7 @@
    }
 
 命名空间
-   window.hg = hg || {};
+   window.hg = {}; //public/js/config.js里配置
 
 常量：
    字母大写
@@ -83,11 +83,6 @@ define(function(require){
         *
         * Include sizzle (http://sizzlejs.com/)
         */
-
-
-
-
-
 
 
 
