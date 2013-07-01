@@ -1,88 +1,100 @@
-变量：
-   以名词开头，小驼峰方式命名:
-   var name='zhang';
-   var windowSize = {width:10,height:30};
-   特殊变量:
-   i、j、k等单字母用于循环语句中
+编码风格
+    变量：
+       以名词开头，小驼峰方式命名:
+       var name='zhang';
+       var windowSize = {width:10,height:30};
+       特殊变量:
+       i、j、k等单字母用于循环语句中
 
-函数：
-   以动词开头，小驼峰方式命名
-   function getUser(){
-   }
+    函数：
+       以动词开头，小驼峰方式命名
+       function getUser(){
+       }
 
-构造函数：
-   以动词开头，大驼峰方式命名
-   function Person(){
-   }
-   Person.prototype.sayHello = function(){
-   }
+    构造函数：
+       以动词开头，大驼峰方式命名
+       function Person(){
+       }
+       Person.prototype.sayHello = function(){
+       }
 
-命名空间
-   window.hg = {}; //public/js/config.js里配置
+    命名空间
+       window.hg = {}; //public/js/config.js里配置
 
-常量：
-   字母大写
-   hg.KEY = {
-      ENTER: 13,
-      PAUSE: 19
-   }
+    常量：
+       字母大写
+       hg.KEY = {
+          ENTER: 13,
+          PAUSE: 19
+       }
 
-代码缩进
-   禁止空格统一以tab方式缩近
+    代码缩进
+       禁止空格统一以tab方式缩近
 
-资源回收
-   hg.resource = null
+    资源回收
+       hg.resource = null
 
-null 与 delete
+    null 与 delete
 
-业务代码结构
-define(function(require){
-         //存放当前业务中全局变量
-         var g = {};
-         //配置参数
-         g.config = {
+    业务代码结构
+    define(function(require){
+             //存放当前业务中全局变量
+             var g = {};
+             //配置参数
+             g.config = {
 
-         };
-         //业务相关URL,可抽出到全局配置
-         g.url = {
+             };
+             //业务相关URL,可抽出到全局配置
+             g.url = {
 
-         };
-         //变量
-         g.params={
-             timer:0
-         };
-         //业务
-         var process = {
-             handlerClick:function(e){
-                this.showDialog(e.screenX,e.screenY)
-             },
-             showDialog:function(x,y){
+             };
+             //变量
+             g.params={
+                 timer:0
+             };
+             //业务
+             var process = {
+                 handlerClick:function(e){
+                    this.showDialog(e.screenX,e.screenY)
+                 },
+                 showDialog:function(x,y){
 
+                 }
              }
-         }
-         //事件处理
-         var event = {
-             dom.on(click,function(e){
-                 process.handlerClick(e);
-             })
-         }
-})
+             //事件处理
+             var event = {
+                 dom.on(click,function(e){
+                     process.handlerClick(e);
+                 })
+             }
+    })
 
-事件与业务逻辑分离
+    事件与业务逻辑分离
 
-组件代码结构
+    组件代码结构
 
-异常处理
+    异常处理
 
-注释
-    文档注释
-        /*!
-        * jRaiser 2 Javascript Library
-        * sizzle - v1.9.1 (2013-03-15T10:07:24+0800)
-        * http://jraiser.org/ | Released under MIT license
-        *
-        * Include sizzle (http://sizzlejs.com/)
-        */
+    注释
+        文档注释
+            /*!
+            * jRaiser 2 Javascript Library
+            * sizzle - v1.9.1 (2013-03-15T10:07:24+0800)
+            * http://jraiser.org/ | Released under MIT license
+            *
+            * Include sizzle (http://sizzlejs.com/)
+            */
+        函数注释
+            /**
+             * 获取用户信息
+             * @param id
+             * @param name
+             */
+             function getUserInfo(id,name){}
+        行注释
+            //注释内容
+
+
 
 
 
@@ -96,48 +108,6 @@ define(function(require){
     dialog
     router : https://github.com/jgallen23/routie  http://xoxco.com/projects/code/router/#/ http://www.cnblogs.com/nuysoft/archive/2012/03/19/2404274.html
     drag  : https://github.com/james2doyle/zepto-dragswap/   https://github.com/netotaku/zepto-drag-and-drop.js
-
-EmberJS
-    中文学习：http://emberjs.torriacg.org/guides/view_layer/
-    官方网站：http://emberjs.com
-    中文网站：http://emberjs.cn
-    视频教程下载：http://dl.vmall.com/c0rwrda58y
-    在线视频教程：http://ember101.com/videos/001-intro-and-binding-data-to-templates
-
-
-    视图
-
-        子视图：
-        当应用时图重新渲染时，Ember 而不是应用代码负责重新渲染并插入子视图。这也意味 着 Ember 可以为你执行任何内存管理，比如清理观察者和绑定。
-
-        事件委派:
-        在容器元素上注册 一个监听器并使用 event.target 来识别哪个元素是用户点击的
-        Ember 只为整个 Ember 应用注册一个事件，创建新视图永远都不需要 设置事件监听器，这使得重渲染高效且免于出错。当视图有一个子视图，这也意味着不 需要手动取消委派重新渲染过程中替换掉的视图。
-
-        渲染管道：
-        Ember 视图的近似生命周期
-            1. 模板编译
-                Ember 负责模板编译，你不需要做任何额外的工作来保证编译后的模板可以重 用。
-            2. 字符串的连接
-                通过向下遍历缓冲区树并把它们转换为字符串，我们就有了一个可以插入到 DOM 的字符串。
-            3.元素的创建和插入
-            4. 重新渲染
-
-        视图层级：
-            生命周期钩子:willInsertElement、didInsertElement、willDestroyElement、willRerender、becameVisible、becameHidden
-
-        虚拟视图：
-
-        事件冒泡：
-
-        添加新事件：
-            当你创建一个新应用时，你可以向事件分配器添加额外的事件
-
-        模板化视图：>>> TODO http://emberjs.torriacg.org/guides/view_layer/#toc_
-
-
-本地存储适配器： https://github.com/rpflorence/ember-localstorage-adapter
-
 
 
 

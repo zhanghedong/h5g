@@ -16,3 +16,45 @@
         负责管理应用程序状态的对象
         当用户启动你的应用程序时，路由将查看URL并且确保显示正确的模板集，以及将那些模板与正确的模型对象配对。
 
+EmberJS
+    中文学习：http://emberjs.torriacg.org/guides/view_layer/
+    官方网站：http://emberjs.com
+    中文网站：http://emberjs.cn
+    视频教程下载：http://dl.vmall.com/c0rwrda58y
+    在线视频教程：http://ember101.com/videos/001-intro-and-binding-data-to-templates
+
+
+    视图
+
+        子视图：
+        当应用时图重新渲染时，Ember 而不是应用代码负责重新渲染并插入子视图。这也意味 着 Ember 可以为你执行任何内存管理，比如清理观察者和绑定。
+
+        事件委派:
+        在容器元素上注册 一个监听器并使用 event.target 来识别哪个元素是用户点击的
+        Ember 只为整个 Ember 应用注册一个事件，创建新视图永远都不需要 设置事件监听器，这使得重渲染高效且免于出错。当视图有一个子视图，这也意味着不 需要手动取消委派重新渲染过程中替换掉的视图。
+
+        渲染管道：
+        Ember 视图的近似生命周期
+            1. 模板编译
+                Ember 负责模板编译，你不需要做任何额外的工作来保证编译后的模板可以重 用。
+            2. 字符串的连接
+                通过向下遍历缓冲区树并把它们转换为字符串，我们就有了一个可以插入到 DOM 的字符串。
+            3.元素的创建和插入
+            4. 重新渲染
+
+        视图层级：
+            生命周期钩子:willInsertElement、didInsertElement、willDestroyElement、willRerender、becameVisible、becameHidden
+
+        虚拟视图：
+
+        事件冒泡：
+
+        添加新事件：
+            当你创建一个新应用时，你可以向事件分配器添加额外的事件
+
+        模板化视图：>>> TODO http://emberjs.torriacg.org/guides/view_layer/#toc_
+
+
+本地存储适配器： https://github.com/rpflorence/ember-localstorage-adapter
+
+
