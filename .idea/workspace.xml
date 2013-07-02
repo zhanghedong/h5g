@@ -2,48 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e7ca64c-2300-4ed2-a964-fde6ec690ece" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/html/newtab.html" />
       <change type="DELETED" beforePath="E:\webroot\h5g\.idea\.name" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/standard/ember.txt" afterPath="$PROJECT_DIR$/docs/standard/ember.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/standard/impactjs.txt" afterPath="$PROJECT_DIR$/docs/standard/impactjs.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/standard/js.txt" afterPath="$PROJECT_DIR$/docs/standard/js.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/views/view.js" afterPath="$PROJECT_DIR$/js/app/views/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/standard/less.txt" afterPath="$PROJECT_DIR$/docs/standard/less.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/standard/tips.txt" afterPath="$PROJECT_DIR$/docs/standard/tips.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="h5g.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372643627470" ignored="false" />
+    <file path="/Dummy.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372735829072" ignored="false" />
     <file path="/index.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372511792336" ignored="false" />
     <file path="/resource.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372470822815" ignored="false" />
     <file path="/image.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372472336215" ignored="false" />
     <file path="/impactjs.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372518197430" ignored="false" />
     <file path="/config.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372481266649" ignored="false" />
-    <file path="/a.dummy" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372666103371" ignored="false" />
+    <file path="/a.dummy" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747472035" ignored="false" />
     <file path="/shaizi.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372472539158" ignored="false" />
     <file path="/index.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372517052625" ignored="false" />
-    <file path="/main.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372514378247" ignored="false" />
+    <file path="/main.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747337077" ignored="false" />
     <file path="/zh-cn.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372474810439" ignored="false" />
-    <file path="/js.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372672789663" ignored="false" />
+    <file path="/js.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372749092099" ignored="false" />
     <file path="/init.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372481087306" ignored="false" />
     <file path="/menu.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372481367935" ignored="false" />
     <file path="$USER_HOME$/Desktop/fjhbdev/开发库/04 集成与测试/代码与实现/Java/Elearning/trunk/src/main/webapp/public/themes/default/less/lib/reset.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372498228191" ignored="false" />
     <file path="/loader.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372515386382" ignored="false" />
     <file path="/weltmeister.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372516198775" ignored="false" />
-    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372661924205" ignored="false" />
-    <file path="/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372661632845" ignored="false" />
-    <file path="$PROJECT_DIR$/../91Gods/1.1js/cocos2d.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372646555602" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372757450837" ignored="false" />
+    <file path="/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372757011765" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/cocos2d.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
     <file path="/cocos2d.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372644714428" ignored="false" />
-    <file path="$PROJECT_DIR$/../91Gods/1.1js/GodCard.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372645011057" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/GodCard.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
     <file path="/GodCard.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372644995690" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/js/embattle/EmbattleScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372644908935" ignored="false" />
     <file path="/EmbattleScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372644888522" ignored="false" />
-    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/ChatBoxLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372666735189" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/ChatBoxLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372748512833" ignored="false" />
     <file path="/ChatBoxLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372649452068" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/lua1.1/lua/chatbox/ChatBoxLayer.lua" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372646828137" ignored="false" />
-    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.min.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372661943196" ignored="false" />
-    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/Common.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372666906748" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.min.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372757277033" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/Common.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372746948589" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/lua1.1/lua/chatbox/CheckPlayerLayer.lua" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372648960632" ignored="false" />
-    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/CheckPlayerLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372650178485" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/CheckPlayerLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
     <file path="/CheckPlayerLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372650162893" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/lua1.1/lua/chatbox/PrivateChatLayer.lua" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372650537484" ignored="false" />
-    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/PrivateChatLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372670143038" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/PrivateChatLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
     <file path="/PrivateChatLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372670142728" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/CheckPlayerLayer_bak.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372657854430" ignored="false" />
     <file path="/CheckPlayerLayer_bak.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372657849789" ignored="false" />
@@ -53,6 +56,41 @@
     <file path="/PrivateChatData.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372670499514" ignored="false" />
     <file path="/scene_manager.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372672660450" ignored="false" />
     <file path="/view.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372672692732" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/app/pay.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372736558417" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/module/page.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755757235" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/app/pay.css" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372756469471" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/pay.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372744542547" ignored="false" />
+    <file path="/pay.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372744322484" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/pay_dev.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372743270465" ignored="false" />
+    <file path="/pay_dev.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372743269715" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/main.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/mainui/MainScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/NdMessageBoxEx.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/fb/FbScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/NdFont.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/xiaorTest.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/GameHelper.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/mainui/GiftBagLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/NdTabBar.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/MainApp.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/NdTabScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/mainui/ShortcutLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372754474918" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/fb/FbEntranceData.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/fb/FbEntranceScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/mainui/MainMenu.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/ChatBoxLayer_new.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/sea-debug.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/sea.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
+    <file path="/ShortcutLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372754474918" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/GameResource.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372754663764" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/app/abc.css" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755441659" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/module/input.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755568565" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/module/list.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755816082" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/module/menu.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755775847" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/module/button.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755796099" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/module/select.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755835620" ignored="false" />
+    <file path="/select.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755835204" ignored="false" />
+    <file path="/tips.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372761097770" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,17 +110,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="weltmeister.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/weltmeister/weltmeister.js">
+      <file leaf-file-name="js.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/standard/js.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="31" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
+            <state line="92" column="0" selection-start="1741" selection-end="1741" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="switch.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plusplus/entities/switch.js">
+      <file leaf-file-name="less.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/standard/less.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="question.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/standard/question.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -90,57 +137,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config-user.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plusplus/config-user.js">
+      <file leaf-file-name="tips.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/standard/tips.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="40" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
+            <state line="7" column="32" selection-start="281" selection-end="281" vertical-scroll-proportion="0.21666667">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="impactjs.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/standard/impactjs.txt">
+      <file leaf-file-name="debug.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/standard/debug.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="17" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dev.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/game/dev.js">
+      <file leaf-file-name="deploy.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/standard/deploy.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="126" column="58" selection-start="4191" selection-end="4191" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scene_manager.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plugins/scene_manager.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="16" selection-start="2704" selection-end="2704" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/app/views/view.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="js.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/standard/js.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="0" selection-start="1815" selection-end="1815" vertical-scroll-proportion="0.78597337">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -155,10 +173,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="init.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/app/config/init.js">
+      <file leaf-file-name="engine.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/standard/engine.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="25" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="folder.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/standard/folder.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="18" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newtab.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/html/newtab.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="21" selection-start="227" selection-end="227" vertical-scroll-proportion="-7.548387">
               <folding />
             </state>
           </provider>
@@ -182,9 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/app/config/init.js" />
-        <option value="$PROJECT_DIR$/public/js/config.js" />
-        <option value="$PROJECT_DIR$/js/engine/impact/lib/impact/debug/menu.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/js/lib/util/loader.js" />
         <option value="$PROJECT_DIR$/js/engine/impact/weltmeister.html" />
@@ -192,12 +225,15 @@
         <option value="$PROJECT_DIR$/js/engine/impact/lib/weltmeister/weltmeister.js" />
         <option value="$PROJECT_DIR$/js/app/index.js" />
         <option value="$PROJECT_DIR$/js/engine/impact/lib/game/main.js" />
-        <option value="$PROJECT_DIR$/docs/standard/impactjs.txt" />
         <option value="$PROJECT_DIR$/js/engine/impact/lib/game/dev.js" />
         <option value="$PROJECT_DIR$/docs/standard/ember.txt" />
         <option value="$PROJECT_DIR$/js/engine/impact/lib/plugins/scene_manager.js" />
         <option value="$PROJECT_DIR$/js/app/views/view.js" />
+        <option value="$PROJECT_DIR$/docs/standard/impactjs.txt" />
         <option value="$PROJECT_DIR$/docs/standard/js.txt" />
+        <option value="$PROJECT_DIR$/docs/standard/less.txt" />
+        <option value="$PROJECT_DIR$/public/html/newtab.html" />
+        <option value="$PROJECT_DIR$/docs/standard/tips.txt" />
       </list>
     </option>
   </component>
@@ -233,7 +269,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -299,6 +334,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -542,11 +595,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -588,13 +643,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21062161" sideWeight="0.93504274" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17380808" sideWeight="0.93504274" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -670,47 +725,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/game/entities/fire.js">
+    <entry file="file://$PROJECT_DIR$/js/app/config/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/app/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
+        <state line="5" column="25" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/game/main.js">
+    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/game/dev.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="21" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
+        <state line="119" column="40" selection-start="3916" selection-end="3916" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plusplus/ui/ui-text.js">
+    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plusplus/config-user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="6" column="40" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plusplus/entities/switch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plusplus/core/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plusplus/config-user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="40" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
+        <state line="68" column="23" selection-start="1963" selection-end="1963" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -722,21 +760,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app/config/init.js">
+    <entry file="file://$PROJECT_DIR$/docs/standard/impactjs.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="25" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+        <state line="19" column="115" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plusplus/debug/debug.js">
+    <entry file="file://$PROJECT_DIR$/docs/standard/js.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="92" column="0" selection-start="1741" selection-end="1741" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/standard/impactjs.txt">
+    <entry file="file://$PROJECT_DIR$/docs/standard/less.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+        <state line="19" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/standard/question.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/standard/debug.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/standard/deploy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -748,32 +809,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/game/dev.js">
+    <entry file="file://$PROJECT_DIR$/docs/standard/engine.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="58" selection-start="4191" selection-end="4191" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/app/views/view.js">
+    <entry file="file://$PROJECT_DIR$/docs/standard/folder.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
+        <state line="49" column="18" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plugins/scene_manager.js">
+    <entry file="file://$PROJECT_DIR$/public/html/newtab.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="16" selection-start="2704" selection-end="2704" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="9" column="21" selection-start="227" selection-end="227" vertical-scroll-proportion="-7.548387">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/standard/js.txt">
+    <entry file="file://$PROJECT_DIR$/docs/standard/tips.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="0" selection-start="1815" selection-end="1815" vertical-scroll-proportion="0.78597337">
+        <state line="7" column="32" selection-start="281" selection-end="281" vertical-scroll-proportion="0.21666667">
           <folding />
         </state>
       </provider>

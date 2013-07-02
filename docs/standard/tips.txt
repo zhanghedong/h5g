@@ -3,3 +3,6 @@ Avoid: tables, relative positioning, absolute positioning, floats
 Headers and Footers? Use position: fixed;
 Scroll inside elements? Use overflow: scroll;
 Inertial scrolling? Use -webkit-overflow-scrolling: touch; (iOS 5+)
+
+
+chrome 源码svn:http://src.chromium.org/svn/trunk/src/chrome/browser/resources/

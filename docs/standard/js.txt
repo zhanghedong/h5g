@@ -31,58 +31,47 @@
     代码缩进
        禁止空格统一以tab方式缩近
 
-    资源回收
+    对象清理
        hg.resource = null
-
-    null 与 delete
 
     业务代码结构
     define(function(require){
-             //存放当前业务中全局变量
-             var g = {};
-             //配置参数
-             g.config = {
-
-             };
-             //业务相关URL,可抽出到全局配置
-             g.url = {
-
-             };
-             //变量
-             g.params={
+            "use strict";
+            //存放当前业务中全局变量
+            var g = {};
+            //配置参数
+            g.config = {
+            };
+            //业务相关URL,可抽出到全局配置
+            g.url = {
+            };
+            //变量
+            g.params={
                  timer:0
-             };
-             //业务
-             var process = {
-                 handlerClick:function(e){
-                    this.showDialog(e.screenX,e.screenY)
-                 },
-                 showDialog:function(x,y){
-
-                 }
-             }
-             //事件处理
-             var event = {
-                 dom.on(click,function(e){
-                     process.handlerClick(e);
-                 })
-             }
+            };
+            //业务
+            var process = {
+                handlerClick:function(e){
+                   this.showDialog(e.screenX,e.screenY)
+                },
+                showDialog:function(x,y){
+                }
+            }
+            //事件处理
+            var event = {
+                dom.on(click,function(e){
+                    process.handlerClick(e);
+                })
+            }
     })
-
-    事件与业务逻辑分离
-
-    组件代码结构
-
-    异常处理
 
     注释
         文档注释
             /*!
-            * jRaiser 2 Javascript Library
-            * sizzle - v1.9.1 (2013-03-15T10:07:24+0800)
-            * http://jraiser.org/ | Released under MIT license
+            * hg Library 1.0
+            * http://1625.me/ | Released under MIT license
             *
-            * Include sizzle (http://sizzlejs.com/)
+            * 字符串处理
             */
         函数注释
             /**
@@ -92,24 +81,15 @@
              */
              function getUserInfo(id,name){}
         行注释
-            //注释内容
+            //TODO IE8以下兼容未处理
+        避免无意义的注释
+            //初始化index变量为0
 
+    事件与业务逻辑分离
 
+    组件代码结构
 
-
-
-游戏引擎整合
-    impactjs
-
-基础开发库
-    iscroll
-    zepto
-    touch
-    dialog
-    router : https://github.com/jgallen23/routie  http://xoxco.com/projects/code/router/#/ http://www.cnblogs.com/nuysoft/archive/2012/03/19/2404274.html
-    drag  : https://github.com/james2doyle/zepto-dragswap/   https://github.com/netotaku/zepto-drag-and-drop.js
-
-
+    异常处理
 
 
 

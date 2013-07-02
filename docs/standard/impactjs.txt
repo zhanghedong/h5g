@@ -7,3 +7,14 @@ impactJS库修改
 
 插件
     场景切换：https://github.com/samgreen/ImpactJS-Scene-Manager/blob/master/main.js
+
+    游戏引擎整合
+        impactjs
+
+    基础开发库
+        iscroll
+        zepto
+        touch
+        dialog
+        router : https://github.com/jgallen23/routie  http://xoxco.com/projects/code/router/#/ http://www.cnblogs.com/nuysoft/archive/2012/03/19/2404274.html
+        drag  : https://github.com/james2doyle/zepto-dragswap/   https://github.com/netotaku/zepto-drag-and-drop.js
