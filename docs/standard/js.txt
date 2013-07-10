@@ -92,4 +92,7 @@
     异常处理
 
 
-
+    谷歌编码规范：http://chajn.org/jsguide/javascriptguide.html
+    
+    
+    
