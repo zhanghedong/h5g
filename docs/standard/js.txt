@@ -68,6 +68,7 @@
             * hg Library 1.0
             * http://1625.me/ | Released under MIT license
             *
+            * string.js
             * 字符串处理
             */
         函数注释
@@ -116,8 +117,6 @@
 
 
 DOM
-
-    document.createElement 与 innerHTML 性能差别不大，旧浏览器：innerHTML会快一点点。新浏览器DOM方法快些 ，根据代码的可维护性来决定采用哪种方法。
 
     局部变量缓存DOM
 

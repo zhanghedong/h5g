@@ -10,10 +10,55 @@
     禁止以数字开头命名
 
 注释
+    文档注释
+        /*!
+        * hg Library 1.0
+        * http://1625.me/ | Released under MIT license
+        *
+        * button.less
+        * 按钮
+        */
+    行注释
+        //匹配以icon-开头的按钮
+
+    如果明确无用代码直接删除
+
+语法
+    每个声明最后都要有分号（即使是最后一个）
 
 缩写
+    url()中不使用引号
+    0后面不跟单位
+    使用#abc这种简写的16进制颜色表示，而不是#aabbcc
 
-模块规范
+组件、模块
+    button,.button{
+        display:inline-block;
+        &:hover{
+            background-color:#f60;
+        }
+        &:focus{
+            background-color:#f60;
+        }
+        &.standart{
+            min-width:90px;
+            min-height:32px;
+        }
+        &.disabled{
+            background-color:#ddd;
+        }
+    }
+    .button-back{
+
+    }
+    .button,.button-back{
+        &.min{
+
+        }
+        &.big{
+
+        }
+    }
 
 reset
     游戏暂不兼容IE6、7、8
@@ -24,3 +69,4 @@ reset
     loading
     mask
     nav
+
