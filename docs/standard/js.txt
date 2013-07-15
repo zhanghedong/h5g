@@ -1,3 +1,5 @@
+参考：http://www.admin10000.com/document/2379.html
+
 编码风格
     变量：
        以名词开头，小驼峰方式命名:
@@ -31,22 +33,17 @@
     代码缩进
        禁止空格统一以tab方式缩近
 
-    对象清理
-       hg.resource = null
 
     业务代码结构
     define(function(require){
             "use strict";
             //存放当前业务中全局变量
             var g = {};
-            //配置参数
-            g.config = {
-            };
+
             //业务相关URL,可抽出到全局配置
-            g.url = {
-            };
+            var url = {};
             //变量
-            g.params={
+            var params={
                  timer:0
             };
             //业务
@@ -90,6 +87,63 @@
     组件代码结构
 
     异常处理
+       如果使用try-catch语句，请确保你了解可能发生的错误。
+       不要将try-catch作为javascript错误的解决办法，如果知道一个错误会发生，那么请修正代码本身问题。
+
+
+性能相关
+    对象清理
+       hg.resource = null
+
+    局部变量与全局变量
+       将全局变量转为局部变量提高执行速度
+       var doc = document; doc.getElementByid('xxx');
+
+    准少对象数组查找
+       var userName = obj.userName;  //在一个函数中，不应该对一个对象成员进行超过一次搜索，除非该值可能改变
+
+    避免使用with表达式
+
+    嵌套对象成员会造成重大性能影响，尽量少用
+        location.href < window.location.href < window.location.href.toString();
+
+    一个属性或方法在原型链中的位置越深，访问它的速度就越慢
+
+    for
+        var coll = document.getElementsByTagName('div'),i,j;
+        for(i = 0,j = coll.length; i<j ; i++)
+
+
+
+DOM
+
+    document.createElement 与 innerHTML 性能差别不大，旧浏览器：innerHTML会快一点点。新浏览器DOM方法快些 ，根据代码的可维护性来决定采用哪种方法。
+
+    局部变量缓存DOM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

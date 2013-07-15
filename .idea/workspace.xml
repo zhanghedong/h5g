@@ -2,45 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e7ca64c-2300-4ed2-a964-fde6ec690ece" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/html/newtab.html" />
       <change type="DELETED" beforePath="E:\webroot\h5g\.idea\.name" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/standard/impactjs.txt" afterPath="$PROJECT_DIR$/docs/standard/impactjs.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/index.js" afterPath="$PROJECT_DIR$/js/app/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/standard/js.txt" afterPath="$PROJECT_DIR$/docs/standard/js.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/standard/less.txt" afterPath="$PROJECT_DIR$/docs/standard/less.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/standard/tips.txt" afterPath="$PROJECT_DIR$/docs/standard/tips.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="h5g.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372735829072" ignored="false" />
-    <file path="/index.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372511792336" ignored="false" />
+    <file path="/Dummy.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373594634815" ignored="false" />
+    <file path="/index.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366170472" ignored="false" />
     <file path="/resource.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372470822815" ignored="false" />
     <file path="/image.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372472336215" ignored="false" />
     <file path="/impactjs.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372518197430" ignored="false" />
     <file path="/config.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372481266649" ignored="false" />
-    <file path="/a.dummy" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747472035" ignored="false" />
+    <file path="/a.dummy" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373594910348" ignored="false" />
     <file path="/shaizi.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372472539158" ignored="false" />
     <file path="/index.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372517052625" ignored="false" />
     <file path="/main.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747337077" ignored="false" />
     <file path="/zh-cn.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372474810439" ignored="false" />
-    <file path="/js.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372749092099" ignored="false" />
+    <file path="/js.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373595182570" ignored="false" />
     <file path="/init.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372481087306" ignored="false" />
     <file path="/menu.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372481367935" ignored="false" />
     <file path="$USER_HOME$/Desktop/fjhbdev/开发库/04 集成与测试/代码与实现/Java/Elearning/trunk/src/main/webapp/public/themes/default/less/lib/reset.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372498228191" ignored="false" />
     <file path="/loader.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372515386382" ignored="false" />
     <file path="/weltmeister.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372516198775" ignored="false" />
-    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372757450837" ignored="false" />
-    <file path="/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372757011765" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373637292171" ignored="false" />
+    <file path="/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373637237099" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/cocos2d.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
     <file path="/cocos2d.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372644714428" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/GodCard.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
     <file path="/GodCard.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372644995690" ignored="false" />
-    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/embattle/EmbattleScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372644908935" ignored="false" />
-    <file path="/EmbattleScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372644888522" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/embattle/EmbattleScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373361046205" ignored="false" />
+    <file path="/EmbattleScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373361046205" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/ChatBoxLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372748512833" ignored="false" />
     <file path="/ChatBoxLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372649452068" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/lua1.1/lua/chatbox/ChatBoxLayer.lua" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372646828137" ignored="false" />
-    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.min.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372757277033" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.min.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373637410404" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/Common.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372746948589" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/lua1.1/lua/chatbox/CheckPlayerLayer.lua" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372648960632" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/CheckPlayerLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
@@ -58,11 +55,11 @@
     <file path="/view.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372672692732" ignored="false" />
     <file path="$PROJECT_DIR$/../pay/mpay/css/app/pay.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372736558417" ignored="false" />
     <file path="$PROJECT_DIR$/../pay/mpay/css/module/page.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755757235" ignored="false" />
-    <file path="$PROJECT_DIR$/../pay/mpay/css/app/pay.css" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372756469471" ignored="false" />
-    <file path="$PROJECT_DIR$/../pay/mpay/pay.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372744542547" ignored="false" />
-    <file path="/pay.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372744322484" ignored="false" />
-    <file path="$PROJECT_DIR$/../pay/mpay/pay_dev.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372743270465" ignored="false" />
-    <file path="/pay_dev.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372743269715" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/app/pay.css" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373631433660" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/pay.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373532975964" ignored="false" />
+    <file path="/pay.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373532975964" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/pay_dev.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373600749682" ignored="false" />
+    <file path="/pay_dev.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373597838823" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/main.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/js/mainui/MainScene.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/NdMessageBoxEx.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
@@ -86,11 +83,31 @@
     <file path="$PROJECT_DIR$/../pay/mpay/css/app/abc.css" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755441659" ignored="false" />
     <file path="$PROJECT_DIR$/../pay/mpay/css/module/input.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755568565" ignored="false" />
     <file path="$PROJECT_DIR$/../pay/mpay/css/module/list.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755816082" ignored="false" />
-    <file path="$PROJECT_DIR$/../pay/mpay/css/module/menu.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755775847" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/module/menu.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373599897475" ignored="false" />
     <file path="$PROJECT_DIR$/../pay/mpay/css/module/button.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755796099" ignored="false" />
     <file path="$PROJECT_DIR$/../pay/mpay/css/module/select.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755835620" ignored="false" />
     <file path="/select.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372755835204" ignored="false" />
     <file path="/tips.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372761097770" ignored="false" />
+    <file path="$PROJECT_DIR$/../lucky/less/lucky.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366629809" ignored="false" />
+    <file path="/lucky.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366617865" ignored="false" />
+    <file path="$PROJECT_DIR$/../lucky/doc/dzp/js/dzp.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373020475601" ignored="false" />
+    <file path="$PROJECT_DIR$/../lucky/doc/参考文档.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373029713189" ignored="false" />
+    <file path="$PROJECT_DIR$/../lucky/index.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366466404" ignored="false" />
+    <file path="/dummy.xml" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366137778" ignored="false" />
+    <file path="$PROJECT_DIR$/../lucky/js/lucky.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366529301" ignored="false" />
+    <file path="/lucky.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366388347" ignored="false" />
+    <file path="$PROJECT_DIR$/../lucky/less/lucky.css" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366657736" ignored="false" />
+    <file path="/参考文档.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373029713493" ignored="false" />
+    <file path="$PROJECT_DIR$/../lucky/js/lib/arctext/index.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373031208177" ignored="false" />
+    <file path="/html5.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373359024482" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/NdBit.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373361227020" ignored="false" />
+    <file path="/NdBit.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373361220861" ignored="false" />
+    <file path="$PROJECT_DIR$/../lucky/js/lib/slider/js/jquery-ui-1.10.3.custom.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373365629821" ignored="false" />
+    <file path="/jquery-ui-1.10.3.custom.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373365406905" ignored="false" />
+    <file path="/a.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373632138912" ignored="false" />
+    <file path="/menu.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373599779603" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/css/module/tip.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373631370363" ignored="false" />
+    <file path="/tip.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373631369945" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,91 +127,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="js.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/standard/js.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="0" selection-start="1741" selection-end="1741" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="less.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/standard/less.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+            <state line="14" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="question.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/standard/question.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tips.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/standard/tips.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="32" selection-start="281" selection-end="281" vertical-scroll-proportion="0.21666667">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="debug.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/standard/debug.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="deploy.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/standard/deploy.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ember.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/standard/ember.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="engine.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/standard/engine.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="folder.txt" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="folder.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/standard/folder.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="18" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0">
+            <state line="36" column="18" selection-start="659" selection-end="659" vertical-scroll-proportion="0.4275782">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newtab.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/html/newtab.html">
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="21" selection-start="227" selection-end="227" vertical-scroll-proportion="-7.548387">
+            <state line="10" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -218,22 +172,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/js/lib/util/loader.js" />
         <option value="$PROJECT_DIR$/js/engine/impact/weltmeister.html" />
         <option value="$PROJECT_DIR$/js/engine/impact/lib/game/config/resource.js" />
         <option value="$PROJECT_DIR$/js/engine/impact/lib/weltmeister/weltmeister.js" />
-        <option value="$PROJECT_DIR$/js/app/index.js" />
         <option value="$PROJECT_DIR$/js/engine/impact/lib/game/main.js" />
         <option value="$PROJECT_DIR$/js/engine/impact/lib/game/dev.js" />
         <option value="$PROJECT_DIR$/docs/standard/ember.txt" />
         <option value="$PROJECT_DIR$/js/engine/impact/lib/plugins/scene_manager.js" />
         <option value="$PROJECT_DIR$/js/app/views/view.js" />
         <option value="$PROJECT_DIR$/docs/standard/impactjs.txt" />
-        <option value="$PROJECT_DIR$/docs/standard/js.txt" />
         <option value="$PROJECT_DIR$/docs/standard/less.txt" />
         <option value="$PROJECT_DIR$/public/html/newtab.html" />
         <option value="$PROJECT_DIR$/docs/standard/tips.txt" />
+        <option value="$PROJECT_DIR$/docs/standard/html5.txt" />
+        <option value="$PROJECT_DIR$/js/app/index.js" />
+        <option value="$PROJECT_DIR$/docs/standard/js.txt" />
       </list>
     </option>
   </component>
@@ -242,6 +196,76 @@
     <option name="y" value="-8" />
     <option name="width" value="1696" />
     <option name="height" value="1026" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JsTestDriverJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -297,241 +321,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impact" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impact" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impact" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impact" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="engine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -550,28 +340,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h5g" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -599,9 +367,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.sourceCode.JavaScript" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -649,7 +421,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17380808" sideWeight="0.93504274" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17321429" sideWeight="0.93504274" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -725,114 +497,92 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/app/config/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="25" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/game/dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="40" selection-start="3916" selection-end="3916" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plusplus/config-user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="40" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="40" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/plusplus/entities/switch.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="23" selection-start="1963" selection-end="1963" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="68" column="23" selection-start="1963" selection-end="1963" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/engine/impact/lib/weltmeister/weltmeister.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="31" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="31" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/standard/impactjs.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="115" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="19" column="115" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/standard/js.txt">
+    <entry file="file://$PROJECT_DIR$/docs/standard/question.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="1741" selection-end="1741" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/standard/debug.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/standard/deploy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/standard/ember.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="609" selection-end="609" vertical-scroll-proportion="0.030588236" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/standard/engine.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/standard/tips.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="32" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/html/newtab.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="21" selection-start="227" selection-end="227" vertical-scroll-proportion="0.031746034" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/standard/less.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+        <state line="14" column="0" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/standard/question.txt">
+    <entry file="file://$PROJECT_DIR$/docs/standard/js.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="46" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/standard/debug.txt">
+    <entry file="file://$PROJECT_DIR$/docs/standard/html5.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/standard/deploy.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/standard/ember.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/standard/engine.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="82" selection-end="82" vertical-scroll-proportion="0.030127462">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/standard/folder.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="18" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/html/newtab.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="21" selection-start="227" selection-end="227" vertical-scroll-proportion="-7.548387">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/standard/tips.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="32" selection-start="281" selection-end="281" vertical-scroll-proportion="0.21666667">
+        <state line="36" column="18" selection-start="659" selection-end="659" vertical-scroll-proportion="0.4275782">
           <folding />
         </state>
       </provider>
