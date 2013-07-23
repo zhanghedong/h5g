@@ -97,7 +97,7 @@ module.exports = function (grunt) {
                 ]
             }
         },
-        copy: {//
+        copy: {//拷贝
             all: {
                 files: [
                     {

@@ -1,20 +1,21 @@
 参考：http://www.admin10000.com/document/2379.html
 
+
 编码风格
     变量：
-       以名词开头，小驼峰方式命名:
-       var name='zhang';
-       var windowSize = {width:10,height:30};
-       特殊变量:
-       i、j、k等单字母用于循环语句中
+        小驼峰方式命名:
+            var name='zhang';
+            var windowSize = {width:10,height:30};
+        特殊变量:
+            i、j、k等单字母用于循环语句中
 
-    函数：
-       以动词开头，小驼峰方式命名
+    方法：
+       小驼峰方式命名
        function getUser(){
        }
 
     构造函数：
-       以动词开头，大驼峰方式命名
+       大驼峰方式命名
        function Person(){
        }
        Person.prototype.sayHello = function(){
@@ -31,46 +32,58 @@
        }
 
     代码缩进
-       禁止空格统一以tab方式缩近
+       以tab方式缩近
 
-
-    业务代码结构
+    业务代码结构(参考)
     define(function(require){
             "use strict";
-            //存放当前业务中全局变量
-            var g = {};
+            //业务配置相关
+            var config = {
+                getUseInfoUrl:'user/info/1'
+            }
 
-            //业务相关URL,可抽出到全局配置
-            var url = {};
-            //变量
+            //存放DOM节点
+            var node = {
+                doc:$(document)
+            };
+
+            //存放变量
             var params={
                  timer:0
             };
+
             //业务
             var process = {
+                init:function(){
+                    this.listen();
+                },
                 handlerClick:function(e){
                    this.showDialog(e.screenX,e.screenY)
                 },
                 showDialog:function(x,y){
+                },
+                listen:function(){
+                    dom.on(click,function(e){
+                        process.handlerClick(e);
+                    })
                 }
             }
-            //事件处理
-            var event = {
-                dom.on(click,function(e){
-                    process.handlerClick(e);
-                })
+            return {
+                init:process.init
             }
     })
 
     注释
+
         文档注释
             /*!
             * hg Library 1.0
-            * http://1625.me/ | Released under MIT license
+            * http://1625.me/
             *
             * string.js
             * 字符串处理
             */
+
         函数注释
             /**
              * 获取用户信息
@@ -78,21 +91,21 @@
              * @param name
              */
              function getUserInfo(id,name){}
+
         行注释
             //TODO IE8以下兼容未处理
+
         避免无意义的注释
             //初始化index变量为0
 
     事件与业务逻辑分离
 
-    组件代码结构
-
     异常处理
        如果使用try-catch语句，请确保你了解可能发生的错误。
        不要将try-catch作为javascript错误的解决办法，如果知道一个错误会发生，那么请修正代码本身问题。
 
-
 性能相关
+
     对象清理
        hg.resource = null
 
@@ -101,14 +114,13 @@
        var doc = document; doc.getElementByid('xxx');
 
     准少对象数组查找
-       var userName = obj.userName;  //在一个函数中，不应该对一个对象成员进行超过一次搜索，除非该值可能改变
+       var userName = obj.userName;  //在一个函数中，不应该对一个对象成员进行多次搜索，除非该值可能改变
 
     避免使用with表达式
 
     嵌套对象成员会造成重大性能影响，尽量少用
         location.href < window.location.href < window.location.href.toString();
-
-    一个属性或方法在原型链中的位置越深，访问它的速度就越慢
+        (一个属性或方法在原型链中的位置越深，访问它的速度就越慢)
 
     for
         var coll = document.getElementsByTagName('div'),i,j;
@@ -116,33 +128,13 @@
 
 
 
-DOM
-
-    局部变量缓存DOM
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    谷歌编码规范：http://chajn.org/jsguide/javascriptguide.html
+    
+    
+    
