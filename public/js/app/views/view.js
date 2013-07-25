@@ -1,1 +1,1 @@
-/*! grunt-spm-build - v0.2.0 - 2013-06-30 19:35 */define("app/views/view",["../template/template"],function(t){t("../template/template"),console.log("view")}),define("app/template/template",[],function(){console.log("temp")});
+/*! grunt-spm-build - v0.2.0 - 2013-07-24 21:07 */define("app/views/view",["../template/template"],function(t){t("../template/template")}),define("app/template/template",[],function(){console.log("temp")});

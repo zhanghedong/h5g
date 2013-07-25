@@ -1,1 +1,1 @@
-/*! grunt-spm-build - v0.2.0 - 2013-06-30 19:35 */define("app/controllers/controller",[],function(){});
+/*! grunt-spm-build - v0.2.0 - 2013-07-24 21:07 */define("app/controllers/controller",[],function(){});

@@ -1,5 +1,7 @@
-define(function(require, exports, module) {
-    var loaderScene = function(scene){
-        set
+define(function (require, exports, module) {
+    var loaderScene = function (scene) {
+
     }
+
 });
+

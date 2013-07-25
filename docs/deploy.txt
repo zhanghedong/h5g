@@ -5,7 +5,7 @@
 2、安装node环境：http://nodejs.org/
 
 3、安装grunt-cli
-   npm install grunt-cli
+   npm install grunt-cli -g
 
 2、安装grunt依赖
    node命令行定位到js/src目录下执行：npm install

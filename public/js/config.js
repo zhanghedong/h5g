@@ -1,5 +1,5 @@
 define(function (require, exports, module) {
-    window.h5g = {} //全局变量
+//    window.h5g = {} //全局变量
     var development = true; // 发布时候改为false
     var version = '0.0.1'; // 版本，发布时候修改
     var debug = development ? 2 : false; // 线上为false，本地为2
@@ -45,14 +45,15 @@ define(function (require, exports, module) {
                 exports: 'DS',
                 deps: ['ember']
             },
+            'zepto': {
+                src: 'lib_ext/zepto/zepto.min',
+                exports: 'DS',
+                deps: ['ember','emberData']
+            },
             'localstorage': {
                 src: 'lib_ext/localstorage/localstorage_adapter',
                 exports: 'DS',
                 deps: ['ember','emberData']
-            },
-            'zepto': {
-                src: 'lib_ext/zepto/zepto.min',
-                exports: 'Zepto'
             },
             'touch': {
                 src: 'lib_ext/zepto/touch',
