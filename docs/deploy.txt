@@ -8,10 +8,10 @@
    npm install grunt-cli -g
 
 2、安装grunt依赖
-   node命令行定位到js/src目录下执行：npm install
+   node命令行定位到工程根目录 ：npm install
 
 3、打包压缩
-   node命令行定位到js/src目录下执行：grunt
+   node命令行定位到工程根目录下执行：grunt
 
 4、发布
    修改public/js/seajs/config.js
