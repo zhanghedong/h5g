@@ -6,28 +6,30 @@
  */
 
 /**
+ *
  * string number boolean
- * array object
  * null undefined
+ *
+ * array object
  */
 
 //string
-var s = new String('abcd'); // object 通过构造函数创建字符串对象
 var s1 = 'abcd'; // string 给字符串的声明赋值
-console.log(s == s1);
-console.log(s === s1);
 
 //number
-var n = new Number(123456); // object
 var n1 = 123456; // number
 
 //boolean
 var isOpen = true;
-console.log(isOpen == 1); //
-console.log(false == 0); //
+
+//null
+s = null ; //清除s
+
+//undefined
+var tt ; //表示一个未声明的变量，或已声明但没有赋值的变量，或一个并不存在的对象属性。
+
 
 //array
-
 var arr = [1, 2, 3, 4]; // 推荐
 
 for (var i = 0, j = arr.length; i < j; i++) { //缓存数组长度
@@ -38,13 +40,22 @@ var arr1 = new Array(1, 2, 3, 4); // [1,2,3,4] 构造函数   尽量避免使用
 var arr2 = new Array(3); // [] arr2.length = 3
 
 
-//object
+//object 键.值
 
 var obj = {} ; // 推荐
-var obj1 = new Object();
 
 obj.userID = 123;
 obj.userName = 'zhang';
+
+var aj = {
+    "a":1,
+    "b":2
+}
+
+
+JSON.stringify(aj)
+
+//json  json对象  对象字面量
 
 
 

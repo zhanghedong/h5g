@@ -1,36 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/js/app/index.js" line="15" />
+    <bookmark url="file://$PROJECT_DIR$/js/app/index.js" line="37" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e7ca64c-2300-4ed2-a964-fde6ec690ece" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/app/blog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/js/prototype.html" />
       <change type="DELETED" beforePath="E:\webroot\h5g\.idea\.name" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/js/this.html" afterPath="$PROJECT_DIR$/demo/js/this.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/config/application.js" afterPath="$PROJECT_DIR$/js/app/config/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/config/application.js" afterPath="$PROJECT_DIR$/public/js/app/config/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/js/closure.html" afterPath="$PROJECT_DIR$/demo/js/closure.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/js/closure.js" afterPath="$PROJECT_DIR$/demo/js/closure.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/controllers/controller.js" afterPath="$PROJECT_DIR$/public/js/app/controllers/controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/util/core.js" afterPath="$PROJECT_DIR$/js/lib/util/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/seajs/debug-rule.js" afterPath="$PROJECT_DIR$/public/js/seajs/debug-rule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/js/function.js" afterPath="$PROJECT_DIR$/demo/js/function.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/index.js" afterPath="$PROJECT_DIR$/js/app/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/index.js" afterPath="$PROJECT_DIR$/public/js/app/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/config/init.js" afterPath="$PROJECT_DIR$/js/app/config/init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/config/init.js" afterPath="$PROJECT_DIR$/public/js/app/config/init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/js/js.html" afterPath="$PROJECT_DIR$/demo/js/js.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/js.txt" afterPath="$PROJECT_DIR$/docs/js.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/i18n/zh-cn/lang.js" afterPath="$PROJECT_DIR$/public/js/app/i18n/zh-cn/lang.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/models/model.js" afterPath="$PROJECT_DIR$/public/js/app/models/model.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/config/route.js" afterPath="$PROJECT_DIR$/js/app/config/route.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/config/route.js" afterPath="$PROJECT_DIR$/public/js/app/config/route.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/template/template.js" afterPath="$PROJECT_DIR$/public/js/app/template/template.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/js/this.js" afterPath="$PROJECT_DIR$/demo/js/this.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/js/var.js" afterPath="$PROJECT_DIR$/demo/js/var.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/app/views/view.js" afterPath="$PROJECT_DIR$/js/app/views/view.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/app/views/view.js" afterPath="$PROJECT_DIR$/public/js/app/views/view.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="h5g.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375173282266" ignored="false" />
-    <file path="/index.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374559379095" ignored="false" />
+    <file path="/Dummy.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375234614419" ignored="false" />
+    <file path="/index.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375256088599" ignored="false" />
     <file path="/resource.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372470822815" ignored="false" />
     <file path="/image.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372472336215" ignored="false" />
     <file path="/impactjs.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372518197430" ignored="false" />
-    <file path="/config.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374653546384" ignored="false" />
+    <file path="/config.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375264293614" ignored="false" />
     <file path="/a.dummy" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374569788960" ignored="false" />
     <file path="/shaizi.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372472539158" ignored="false" />
-    <file path="/index.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374669851164" ignored="false" />
+    <file path="/index.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375267245253" ignored="false" />
     <file path="/main.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747337077" ignored="false" />
     <file path="/zh-cn.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372474810439" ignored="false" />
-    <file path="/js.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374465165153" ignored="false" />
+    <file path="/js.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375256861353" ignored="false" />
     <file path="/init.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372481087306" ignored="false" />
     <file path="/menu.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372481367935" ignored="false" />
     <file path="$USER_HOME$/Desktop/fjhbdev/开发库/04 集成与测试/代码与实现/Java/Elearning/trunk/src/main/webapp/public/themes/default/less/lib/reset.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372498228191" ignored="false" />
     <file path="/loader.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374672402108" ignored="false" />
     <file path="/weltmeister.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372516198775" ignored="false" />
-    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374810607092" ignored="false" />
-    <file path="/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374808492062" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375267606125" ignored="false" />
+    <file path="/pay.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375267605380" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/cocos2d.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
     <file path="/cocos2d.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372644714428" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/GodCard.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
@@ -40,7 +65,7 @@
     <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/ChatBoxLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374479597481" ignored="false" />
     <file path="/ChatBoxLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373963693541" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/lua1.1/lua/chatbox/ChatBoxLayer.lua" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373945453659" ignored="false" />
-    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.min.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374478938743" ignored="false" />
+    <file path="$PROJECT_DIR$/../pay/mpay/js/pay.min.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375267675873" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/js/lib/Common.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374480030805" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/lua1.1/lua/chatbox/CheckPlayerLayer.lua" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372648960632" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.1js/js/chatbox/CheckPlayerLayer.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1372747976209" ignored="false" />
@@ -96,7 +121,7 @@
     <file path="$PROJECT_DIR$/../lucky/doc/dzp/js/dzp.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373020475601" ignored="false" />
     <file path="$PROJECT_DIR$/../lucky/doc/参考文档.txt" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373029713189" ignored="false" />
     <file path="$PROJECT_DIR$/../lucky/index.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366466404" ignored="false" />
-    <file path="/dummy.xml" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374671491004" ignored="false" />
+    <file path="/dummy.xml" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375256063113" ignored="false" />
     <file path="$PROJECT_DIR$/../lucky/js/lucky.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366529301" ignored="false" />
     <file path="/lucky.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366388347" ignored="false" />
     <file path="$PROJECT_DIR$/../lucky/less/lucky.css" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1373366657736" ignored="false" />
@@ -177,9 +202,15 @@
     <file path="$PROJECT_DIR$/../pay/mpay/js/UnionGameListAndMerchandiseJsonData.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1374816887053" ignored="false" />
     <file path="/overflow.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375153803120" ignored="false" />
     <file path="/loading.less" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375156103356" ignored="false" />
-    <file path="/var.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375169401656" ignored="false" />
-    <file path="/closure.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375169960859" ignored="false" />
-    <file path="/closure.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375176308189" ignored="false" />
+    <file path="/var.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375270373591" ignored="false" />
+    <file path="/closure.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375237857490" ignored="false" />
+    <file path="/closure.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375273807655" ignored="false" />
+    <file path="/function.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375271068847" ignored="false" />
+    <file path="/prototype.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375239267960" ignored="false" />
+    <file path="/prototype.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375251675217" ignored="false" />
+    <file path="/blog.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375260689584" ignored="false" />
+    <file path="/blog.html" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375260779497" ignored="false" />
+    <file path="/this.js" changelist="6e7ca64c-2300-4ed2-a964-fde6ec690ece" time="1375272282549" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,37 +230,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="input.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less/module/input.less">
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="4" column="20" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/js/function.js">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="10" column="43" selection-start="458" selection-end="458" vertical-scroll-proportion="-8.387096">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/js/js.html">
+      <file leaf-file-name="blog.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="6" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="var.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/js/var.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+            <state line="13" column="9" selection-start="233" selection-end="233" vertical-scroll-proportion="-10.903226">
               <folding />
             </state>
           </provider>
@@ -238,7 +260,25 @@
       <file leaf-file-name="var.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/js/var.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="19" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0">
+            <state line="36" column="1" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/js/function.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="this.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/js/this.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="124" column="0" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -247,19 +287,26 @@
       <file leaf-file-name="closure.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/js/closure.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="25" selection-start="68" selection-end="68" vertical-scroll-proportion="-2.516129">
+            <state line="1" column="18" selection-start="34" selection-end="34" vertical-scroll-proportion="-0.83870965">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="closure.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="closure.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/js/closure.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="106" column="0" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.060254924">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="140" column="2" selection-start="2119" selection-end="2119" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prototype.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/js/prototype.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="2" selection-start="850" selection-end="850" vertical-scroll-proportion="0.6976744">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -267,16 +314,7 @@
       <file leaf-file-name="this.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/js/this.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/js/function.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="1" column="18" selection-start="34" selection-end="34" vertical-scroll-proportion="-0.83870965">
               <folding />
             </state>
           </provider>
@@ -300,30 +338,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/public/themes/default.css" />
-        <option value="$PROJECT_DIR$/less/themes/default.less" />
-        <option value="$PROJECT_DIR$/less/themes/gray.less" />
-        <option value="$PROJECT_DIR$/js/app/index.js" />
+        <option value="$PROJECT_DIR$/html/index.html" />
+        <option value="$PROJECT_DIR$/js/app/blog.js" />
+        <option value="$PROJECT_DIR$/html/blog.html" />
+        <option value="$PROJECT_DIR$/js/app/config/application.js" />
+        <option value="$PROJECT_DIR$/js/app/config/init.js" />
+        <option value="$PROJECT_DIR$/js/app/config/route.js" />
+        <option value="$PROJECT_DIR$/js/app/views/view.js" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
         <option value="$PROJECT_DIR$/public/js/config.js" />
-        <option value="$PROJECT_DIR$/less/module/button.less" />
-        <option value="$PROJECT_DIR$/less/hack/ie6.less" />
-        <option value="$PROJECT_DIR$/html/zen.html" />
-        <option value="$PROJECT_DIR$/js/lib/util/loader.js" />
-        <option value="$PROJECT_DIR$/docs/deploy.txt" />
-        <option value="$USER_HOME$/Desktop/overflow.html" />
-        <option value="$PROJECT_DIR$/less/module/loading.less" />
-        <option value="$PROJECT_DIR$/demo/js/this.html" />
+        <option value="$PROJECT_DIR$/public/js/seajs/debug-rule.js" />
+        <option value="$PROJECT_DIR$/js/app/index.js" />
         <option value="$PROJECT_DIR$/demo/js/var.js" />
-        <option value="$PROJECT_DIR$/demo/js/closure.html" />
+        <option value="$PROJECT_DIR$/demo/js/function.js" />
+        <option value="$PROJECT_DIR$/demo/js/this.js" />
         <option value="$PROJECT_DIR$/demo/js/closure.js" />
+        <option value="$PROJECT_DIR$/demo/js/prototype.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="width" value="1040" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -450,7 +488,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -468,6 +538,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h5g" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -479,16 +567,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../impressjs" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\webroot\h5g\demo\js" />
       <recent name="E:\webroot\h5g\less\themes" />
+      <recent name="E:\webroot\h5g\js\app" />
+      <recent name="E:\webroot\h5g\html" />
+      <recent name="E:\webroot\h5g\demo\js" />
       <recent name="E:\webroot\h5g\less\module" />
-      <recent name="E:\webroot\h5g\js\engine\impact\lib" />
-      <recent name="E:\webroot\h5g\js\engine\impact\lib\weltmeister" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\webroot\h5g\docs" />
@@ -525,16 +613,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15535714" sideWeight="0.93504274" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22949219" sideWeight="0.67105263" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -607,53 +695,14 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/less/themes/blog.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="8" selection-start="924" selection-end="924" vertical-scroll-proportion="-27.67742">
+        <state line="8" column="36" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="30" selection-start="694" selection-end="694" vertical-scroll-proportion="-15.935484" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/config.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/util/loader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/module/loading.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/module/input.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/js/function.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/js/function.js">
+    <entry file="file://$PROJECT_DIR$/demo/js/var.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -662,50 +711,101 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/js/js.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="6" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
+        <state line="16" column="6" selection-start="196" selection-end="196" vertical-scroll-proportion="-13.419354">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/js/var.html">
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="14" selection-start="14" selection-end="14" vertical-scroll-proportion="-0.0">
+        <state line="107" column="33" selection-start="3554" selection-end="3554" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/seajs/debug-rule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="49" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/js/this.js">
+    <entry file="file://$PROJECT_DIR$/js/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.0672073" />
+        <state line="7" column="0" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/js/this.html">
+    <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0">
+        <state line="10" column="43" selection-start="458" selection-end="458" vertical-scroll-proportion="-8.387096">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="20" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="9" selection-start="233" selection-end="233" vertical-scroll-proportion="-10.903226">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/js/var.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="19" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0">
+        <state line="36" column="1" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="349" selection-end="349" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/this.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="34" selection-end="34" vertical-scroll-proportion="-0.83870965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/this.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="0" selection-start="1657" selection-end="1657" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/js/closure.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="68" selection-end="68" vertical-scroll-proportion="-2.516129">
+        <state line="1" column="18" selection-start="34" selection-end="34" vertical-scroll-proportion="-0.83870965">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/js/closure.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="0" selection-start="1282" selection-end="1282" vertical-scroll-proportion="0.060254924">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="140" column="2" selection-start="2119" selection-end="2119" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/js/prototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="2" selection-start="850" selection-end="850" vertical-scroll-proportion="0.6976744">
+          <folding />
         </state>
       </provider>
     </entry>

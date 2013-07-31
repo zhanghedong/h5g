@@ -32,7 +32,7 @@
        }
 
     代码缩进
-       以tab方式缩近
+       以tab方式缩近 四个空格
 
     业务代码结构(参考)
     define(function(require){
@@ -93,7 +93,7 @@
              function getUserInfo(id,name){}
 
         行注释
-            //TODO IE8以下兼容未处理
+            //TODO（zhanghd） IE8以下兼容未处理
 
         避免无意义的注释
             //初始化index变量为0
@@ -124,12 +124,42 @@
 
     for
         var coll = document.getElementsByTagName('div'),i,j;
-        for(i = 0,j = coll.length; i<j ; i++)
+        for(i = 0,j = coll.length; i<j ; i++){
+             document.getElementById('xx');
+        }
+
+代码质量
+
+    'use strict';
+
+    最小化全局变量
+
+    变量先申明后使用
+
+    创建隐式全局变量  var a = b = 0;
+
+    var obj = hg.obj = {};
+
+    单var语句
+
+    var xx = "",
+        xx = "";
+
+    （不）扩展内置原型
+    //Array.prototype.min()
+
+    避免隐式类型转换
+
+    避免(Avoiding) eval()
+
+    花括号{}
+
+    if(true){
+         return 'xx';
+     }
 
 
-
-
-
+    注释
 
 
 

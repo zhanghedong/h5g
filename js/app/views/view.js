@@ -1,3 +1,3 @@
 define(function(require){
-    var temp = require('../template/template')
+//    var temp = require('../template/template')
 })

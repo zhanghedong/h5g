@@ -53,7 +53,7 @@ module.exports = function (grunt) {
                 files: [
                     {
                         cwd: 'js',
-                        src: ['**/*', '!**/*.html', '!engine/**', '!tools/**', '!lib/**'],
+                        src: ['**/*', '!**/*.html', '!engine/**', '!tools/**'],
                         filter: 'isFile',
                         dest: '.build/js'
                     }
@@ -103,7 +103,7 @@ module.exports = function (grunt) {
                     {
                         expand: true,
                         cwd: 'dist/js',
-                        src: ['app/**/*.js', '!**/*-debug.js'],//
+                        src: ['app/**/*.js','lib/**/*.js', '!**/*-debug.js'],//
                         dest: 'public/js/',
                         filter: 'isFile'}
                 ]

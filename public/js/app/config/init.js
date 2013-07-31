@@ -1,1 +1,1 @@
-/*! grunt-spm-build - v0.2.0 - 2013-07-24 21:07 */define("app/config/init",["../i18n/zh-cn/lang"],function(n){var i=n("../i18n/zh-cn/lang");h5g.lang=i}),define("app/i18n/zh-cn/lang",[],function(){var n={name:"First Game",desc:"impact game"};return n});
+/*! grunt-spm-build - v0.2.0 - 2013-07-31 21:22 */define("app/config/init",[],function(){});

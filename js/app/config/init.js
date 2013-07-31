@@ -3,6 +3,6 @@
  * Copyright 2013 ND, Inc. All rights reserved.
  */
 define(function (require, exports, module) {
-    var lang = require('../i18n/zh-cn/lang')
-    h5g.lang = lang;
+//    var lang = require('../i18n/zh-cn/lang')
+//    h5g.lang = lang;
 })
